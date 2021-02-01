@@ -1,0 +1,24 @@
+.calculator{
+    height: 470px;
+    width: 380px;
+    background-color: rgb(228, 226, 226);
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 10px;
+    border: 1px solid #777 ;
+    
+}
+.main-bar{
+    height: 45px;
+    margin-bottom: 15px;
+    text-align: right;
+    font-size: 30px;
+    font-weight: bold;
+}
+.btn{
+    margin: 7px;
+    font-size: 25px;
+    cursor: pointer;
+    width: 71px;
+    
+}
